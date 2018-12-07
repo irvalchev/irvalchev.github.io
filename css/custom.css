@@ -1,0 +1,30 @@
+.not-needed {
+    display: none;
+}
+
+.home-content__main {
+    text-align: center;
+}
+
+.s-about {
+    background-color: #bbb;
+}
+
+.btn.btn--primary,
+button.btn--primary,
+input[type="submit"].btn--primary,
+input[type="reset"].btn--primary,
+input[type="button"].btn--primary,
+.footer-subscribe #mc-form input[type=submit] {
+    background: #449922;
+    border-color: #449922;
+}
+
+.footer-logo {
+    background: url("../images/inSafe logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 90px;
+    height: 100px;
+}
